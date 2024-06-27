@@ -36,7 +36,7 @@ const Home = () => {
 
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-small text-zinc-500">
-          I'm working for
+          I&apos;m working for
           <Link
             target="blank"
             href="https://uptickhq.com"
